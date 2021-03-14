@@ -4,13 +4,15 @@ body{
 a{
 	color: white;
 }
-
+h2{
+	display: inline-block;
+}
 .header {
 	width: 80%;
 	height: 125px;
 	background: yellow;
 	float: left;
-	position: absolute;
+
 }
 
 .container{
@@ -21,12 +23,14 @@ a{
 .logo{
 	width: 40px;
 	float: left;
+	margin-left: 15px;
 }
 
 .h1{
 	padding-top: 22px;
 	font-size: 55px;
 	color: #454545;
+	font-family: Acme;
 }
 .ul{
 	display: inline-block;
@@ -57,6 +61,30 @@ a{
 	display: inline;
 }
 
+.vce{
+	display: flex;
+}
+
+.png {
+
+}
+
+.png-1 {
+	width: 50px;
+}
+
+.png-2 {
+	width: 50px;
+}
+
+.png-3 {
+	width: 50px;
+}
+
+.png-4 {
+	width: 50px;
+}
+
 
 
 .nav {
@@ -69,6 +97,21 @@ a{
 	padding: 150px 0px;
 	width: 25%;
 	margin: 0px 15px;
+}
+.video{
+	margin-left: 20%
+}
+
+.news {
+	width: 20%;
+	height: 100%;
+	float: right;
+	background: grey;
+}
+
+.nav__inner {
+	width: 80%;
+	float: left;
 }
 
 .footer {
