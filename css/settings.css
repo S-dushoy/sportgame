@@ -40,7 +40,7 @@ list-style-type: none;
 .li-1 {
 	border: 1px solid black;
 	width: 10%;
-	background: darkgrey;
+	background: lightgrey;
 	padding-top: 5px;
 	color: black;
 }
@@ -56,7 +56,7 @@ list-style-type: none;
 .li-4 {
 	border: 1px solid black;
 	width: 10%;
-	background: lightgrey;
+	background: darkgrey;
 	padding-top: 5px;
 	color: black;
 }
